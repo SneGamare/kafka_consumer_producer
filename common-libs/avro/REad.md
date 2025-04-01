@@ -18,3 +18,26 @@ Created_by 	Plutus
 Modified_by	Plutus
 SourceSystem	
 	![image](https://github.com/user-attachments/assets/3e2765c3-56e2-49fe-88ec-60cefd12abad)
+
+
+
+Payment _tractiion -- Define name 
+Finacle_UPI
+ID
+UPI_ID
+TRAN_DATE
+TRAN_ID
+ACID
+TRAN_AMT
+FORACID
+REF_NUM
+RRN
+Raw_Data
+UPI_CREATE_DATE
+Create_date
+Modified_date
+Created_by 
+Modified_by
+SourceSystem
+![Uploading image.png…]()
+
